@@ -5,5 +5,12 @@
     "storeUrl": "",
     "email": ""
   },
-  "groups": []
+  "groups": [
+    {
+      "id": "gmvp9aep4",
+      "name": "House Furniture",
+      "description": "Scandinavian-style furniture and home props for every room.",
+      "items": []
+    }
+  ]
 }
