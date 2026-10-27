@@ -10,7 +10,72 @@
       "id": "gmvp9aep4",
       "name": "House Furniture",
       "description": "Scandinavian-style furniture and home props for every room.",
-      "items": []
+      "items": [
+        {
+          "id": "dining_chair",
+          "title": "Dining Chair"
+        },
+        {
+          "id": "dining_sideboard",
+          "title": "Dining Sideboard"
+        },
+        {
+          "id": "kitchen_fridge",
+          "title": "Kitchen Fridge"
+        },
+        {
+          "id": "dining_table",
+          "title": "Dining Table"
+        },
+        {
+          "id": "kitchen_stove",
+          "title": "Kitchen Stove"
+        },
+        {
+          "id": "kitchen_table",
+          "title": "Kitchen Table"
+        },
+        {
+          "id": "living_area_rug",
+          "title": "Living Area Rug"
+        },
+        {
+          "id": "living_armchair",
+          "title": "Living Armchair"
+        },
+        {
+          "id": "living_bookshelf",
+          "title": "Living Bookshelf"
+        },
+        {
+          "id": "living_coffee_table",
+          "title": "Living Coffee Table"
+        },
+        {
+          "id": "living_floor_lamp",
+          "title": "Living Floor Lamp"
+        },
+        {
+          "id": "living_side_table",
+          "title": "Living Side Table"
+        },
+        {
+          "id": "living_sofa_2seat",
+          "title": "Living Sofa 2seat"
+        },
+        {
+          "id": "living_sofa_3seat",
+          "title": "Living Sofa 3seat"
+        },
+        {
+          "id": "living_tv_stand",
+          "title": "Living Tv Stand"
+        },
+        {
+          "id": "living_wall_mirror",
+          "title": "Living Wall Mirror"
+        }
+      ]
     }
   ]
 }
